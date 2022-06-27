@@ -1,0 +1,23 @@
+*{
+    /* background-image: linear-gradient(to right, c21500 , #ffc500);  */
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    background-image: url("../image/orange.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    height: 100vh;
+}
+.container{
+    width: 60%;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fd8608;
+}
+h4,
+.num{
+    display: inline;
+}
